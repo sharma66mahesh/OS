@@ -1,0 +1,7 @@
+int main(int argc, char *argv[])
+{
+	unsigned long newLines = 0;
+	unsigned long words = 0;
+}
+end of file
+
